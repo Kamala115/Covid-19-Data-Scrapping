@@ -7,8 +7,8 @@ Description:
 
           
 Technologies Used:
-          - Python, BeautifulSoup for Web Scraping
-
+          
+- Python, BeautifulSoup for Web Scraping
 - Plotly for Data Visualization
 
 
