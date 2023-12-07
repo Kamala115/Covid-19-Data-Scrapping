@@ -17,6 +17,9 @@ Technologies Used:
 
           
 Key Achievements:
-          - Automated Data Retrieval from multiple websites, ensuring up-to-date information.
-          - Implemented Data Cleaning and transformation processes to prepare the data for analysis.
-          - Created interactive and visually appealing dashboards using Plotly to communicate insights effectively.
+          
+          
+          
+- Automated Data Retrieval from multiple websites, ensuring up-to-date information.
+- Implemented Data Cleaning and transformation processes to prepare the data for analysis.
+- Created interactive and visually appealing dashboards using Plotly to communicate insights effectively.
