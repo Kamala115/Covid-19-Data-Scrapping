@@ -1,6 +1,6 @@
 # Covid-19-Data-Scrapping
 Description:
-          - Developed a Python-based web scraping application using BeautifulSoup to extract real-time COVID-19 data from reputable sources.
+          - Developed a Python-based Web Scraping application using BeautifulSoup to extract real-time COVID-19 data from reputable sources.
 
 
 
